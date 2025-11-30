@@ -1,9 +1,3 @@
-# api_mundotea.py
-"""
-API MundoTEA - Visualização de perfil apenas
-Flask + Flask-RESTful + Flask-JWT-Extended + psycopg2 + CORS
-"""
-
 import base64
 import uuid
 from flask import Flask, request, jsonify
