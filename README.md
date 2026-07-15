@@ -1,4 +1,4 @@
-# html-css
-HTML5 e CSS do TCC
+Trabalho de TCC
+HTML5, CSS3, JavaScript, Python, SQL
 
-O que já foi desenvolvido foi home, login e cadastro
+Projeto em desenvolvimento
